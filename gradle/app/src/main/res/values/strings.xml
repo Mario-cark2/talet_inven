@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Invenio_talet</string>
+    <string name="Alta">Alta de entradas</string>
+    <string name="titulo_enuncia_el_contendio_de_la_entrada">Titulo:Enuncia el contendio de la entrada</string>
+    <string name="autor_el_nombre_de_quien_publica_la_entrada">Autor: el nombre de quien publica la entrada</string>
+    <string name="fecha_de_publicaci_n_la_fecha_en_que_la_entrada_fue_guardada">Fecha de publicación: la fecha en que la entrada fue guardada</string>
+    <string name="contenido_un_escrito_breve">Contenido: un escrito breve.</string>
+    <string name="send_data">Send data</string>
+</resources>
